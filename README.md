@@ -1,3 +1,4 @@
+# Check updated repo on Gitlab : https://gitlab.com/ConfrerieDuKassoulait/KassouBot
 # Bot developed with [discord.py](https://github.com/Rapptz/discord.py) (rewrite) - FRENCH
 
 [![Version](https://img.shields.io/badge/version-1.4-green?style=for-the-badge)](https://github.com/Confrerie-du-Kassoulait/KassouBot/releases/latest)
